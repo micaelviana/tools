@@ -8,10 +8,6 @@ bash scripts/setup-git.sh
 chmod +x scripts/ranger.sh
 bash scripts/ranger.sh
 
-#Clone Vi config
-chmod +x scripts/vi.sh
-bash scripts/vi.sh
-
 #Tilix Theme
 chmod +x scripts/tilix.sh
 bash scripts/tilix.sh
@@ -19,3 +15,7 @@ bash scripts/tilix.sh
 #ZSH PLUGIN MANAGER
 chmod +x scripts/zsh-plugin-manager.sh
 bash scripts/zsh-plugin-manager.sh
+
+#Clone Vi config
+chmod +x scripts/vi.sh
+bash scripts/vi.sh
