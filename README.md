@@ -34,4 +34,4 @@
 
 [Gedit Theme](https://github.com/isdampe/gedit-gtk-one-dark-style-scheme)
 
-[Fonts] (https://github.com/ryanoasis/nerd-fonts/releases/) 
+[Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
