@@ -33,3 +33,5 @@
 [Icon Pack](https://www.gnome-look.org/s/Gnome/p/1279924)
 
 [Gedit Theme](https://github.com/isdampe/gedit-gtk-one-dark-style-scheme)
+
+[Fonts] (https://github.com/ryanoasis/nerd-fonts/releases/) 
