@@ -17,6 +17,7 @@ spotify-client
 synaptic
 telegram-desktop
 tilix
+tlp
 uget
 virtualbox
 vlc
