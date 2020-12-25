@@ -5,6 +5,7 @@ neofetch
 neovim
 nodejs
 npm
+python-pip
 qbittorrent
 qt5ct
 the_silver_searcher
