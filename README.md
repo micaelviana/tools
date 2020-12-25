@@ -1,21 +1,20 @@
-
 # Dotfiles
 
 ## Ubuntu
     
-   ### PopOs Repository
-   [PopOs APT Repositories](https://apt.pop-os.org/)
+* ### PopOs Repository
+[PopOs APT Repositories](https://apt.pop-os.org/)
  
-### PPAs
+* ### PPAs
 [Ulauncher](https://ulauncher.io/)
 
 
-### Nodejs
+* ### Nodejs
 ```curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -```
 
 ```sudo apt-get install -y nodejs```
 
-### Ranger Software dependency
+* ### Ranger Software dependency
 ```sudo apt install python3-pip```
 
 ```sudo pip3 install ueberzug```
