@@ -30,7 +30,7 @@
 
     ```makepkg -si```
 
-## SHELL
+## Shell
 [OH MY ZSH](https://ohmyz.sh/)
 
 [ZSHRC](https://gist.github.com/micaelviana)
