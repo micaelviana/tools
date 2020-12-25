@@ -1,4 +1,6 @@
+base-devel
 git
+go
 neofetch
 neovim
 nodejs
