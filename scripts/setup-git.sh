@@ -55,7 +55,6 @@ if ! location="$(type -p "git")" || [ -z "git" ]; then
 
 	fi
 
-fi
 
 #setting up git
 #https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
@@ -63,7 +62,7 @@ fi
 git init
 git config --global user.name "Micael Viana"
 git config --global user.email "micael.vianasilva@gmail.com"
-git config --global core.editor vim
+git config --global core.editor nvim
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=18000'
 git config --global push.default simple
