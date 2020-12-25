@@ -3,10 +3,10 @@
 ## Ubuntu
     
 * ### PopOs Repository
-[PopOs APT Repositories](https://apt.pop-os.org/)
+    [PopOs APT Repositories](https://apt.pop-os.org/)
  
 * ### PPAs
-[Ulauncher](https://ulauncher.io/)
+    [Ulauncher](https://ulauncher.io/)
 
 
 * ### Nodejs
