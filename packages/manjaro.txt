@@ -1,0 +1,13 @@
+git
+neofetch
+neovim
+nodejs
+npm
+qbittorrent
+qt5ct
+the_silver_searcher
+telegram-desktop
+tilix
+tlp
+uget
+vlc
