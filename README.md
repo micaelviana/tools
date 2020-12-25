@@ -2,8 +2,9 @@
 # Dotfiles
 
 ## Ubuntu
-### PopOs Repository
-[PopOs APT Repositories](https://apt.pop-os.org/)
+    
+    ### PopOs Repository
+    [PopOs APT Repositories](https://apt.pop-os.org/)
  
 ### PPAs
 [Ulauncher](https://ulauncher.io/)
