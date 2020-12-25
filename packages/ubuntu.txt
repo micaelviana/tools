@@ -6,6 +6,7 @@ gnome-tweaks
 google-chrome-stable
 neofetch
 neovim
+python3-pip
 qbittorrent
 qt5ct
 qt5-style-kvantum
