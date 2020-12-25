@@ -19,6 +19,16 @@
 
 ```sudo pip3 install ueberzug```
 
+## Manjaro
+
+* ### AUR Helper
+```sudo pacman -S --needed base-devel git go```
+
+```git clone https://aur.archlinux.org/yay.git```
+
+```cd yay```
+
+```makepkg -si```
 
 ## SHELL
 [OH MY ZSH](https://ohmyz.sh/)
