@@ -10,25 +10,26 @@
 
 
 * ### Nodejs
-    ```curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -```
-
-    ```sudo apt-get install -y nodejs```
+    ```sh
+    curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+    sudo apt-get install -y nodejs
+    ```
 
 * ### Ranger Software dependency
-    ```sudo apt install python3-pip```
-
-    ```sudo pip3 install ueberzug```
+    ```sh
+    sudo apt install python3-pip
+    sudo pip3 install ueberzug
+    ```
 
 ## Manjaro
 
 * ### AUR Helper
-    ```sudo pacman -S --needed base-devel git go```
-
-    ```git clone https://aur.archlinux.org/yay.git```
-
-    ```cd yay```
-
-    ```makepkg -si```
+    ```sh
+    sudo pacman -S --needed base-devel git go
+    git clone https://aur.archlinux.org/yay.git
+    cd yay
+    makepkg -si
+    ```
 
 ## Shell
 [OH MY ZSH](https://ohmyz.sh/)
