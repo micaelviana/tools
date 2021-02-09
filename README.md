@@ -29,9 +29,9 @@
     
 ## Windows
 
-    [Neovim Clipboard](https://github.com/neovim/neovim/wiki/FAQ#how-to-use-the-windows-clipboard-from-wsl)
+   [Neovim Clipboard](https://github.com/neovim/neovim/wiki/FAQ#how-to-use-the-windows-clipboard-from-wsl)
 
-    [Explorer Context Menu Integration for Windows Terminal](https://github.com/BroJenuel/Explorer-Context-Menu-Integration-for-windows-terminal/)
+   [Explorer Context Menu Integration for Windows Terminal](https://github.com/BroJenuel/Explorer-Context-Menu-Integration-for-windows-terminal/)
 
 ## Shell
 [OH MY ZSH](https://ohmyz.sh/)
