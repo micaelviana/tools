@@ -1,5 +1,6 @@
 build-essential
 curl
+git
 neovim
 nodejs
 python3-pip
