@@ -29,16 +29,9 @@
     
 ## Windows
 
-* ### Neovim Clipboard
-    ```sh
-    curl -sLo/tmp/win32yank.zip https://github.com/equalsraf/win32yank/releases/download/v0.0.4/win32yank-x64.zip
-    unzip -p /tmp/win32yank.zip win32yank.exe > /tmp/win32yank.exe
-    chmod +x /tmp/win32yank.exe
-    mv /tmp/win32yank.exe /bin
-    ```
+    [Neovim Clipboard](https://github.com/neovim/neovim/wiki/FAQ#how-to-use-the-windows-clipboard-from-wsl)
 
-* ### Explorer Context Menu Integration for Windows Terminal
-    [Directions](https://github.com/BroJenuel/Explorer-Context-Menu-Integration-for-windows-terminal/)
+    [Explorer Context Menu Integration for Windows Terminal](https://github.com/BroJenuel/Explorer-Context-Menu-Integration-for-windows-terminal/)
 
 ## Shell
 [OH MY ZSH](https://ohmyz.sh/)
