@@ -4,12 +4,6 @@
 chmod +x scripts/setup-git.sh
 bash scripts/setup-git.sh
 
-#Setup Ranger
-if which apt > /dev/null; then
-  chmod +x scripts/ranger.sh
-  bash scripts/ranger.sh
-fi
-
 #Tilix Theme
 chmod +x scripts/tilix.sh
 bash scripts/tilix.sh
