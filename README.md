@@ -17,13 +17,6 @@
     sudo apt-get install -y nodejs
     ```
 
-* ### Ranger Software dependency
-    ```sh
-    sudo apt install python3-pip
-    sudo pip3 install ueberzug
-    ```
-    
-
 ## Manjaro
 
 * ### AUR Helper
@@ -60,7 +53,5 @@
 [Cursor](https://www.gnome-look.org/p/1393084/)
 
 [Icon Pack](https://www.gnome-look.org/s/Gnome/p/1279924)
-
-[Gedit Theme](https://github.com/isdampe/gedit-gtk-one-dark-style-scheme)
 
 [Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
