@@ -1,0 +1,9 @@
+build-essential
+curl
+neovim
+nodejs
+python3-pip
+silversearcher-ag
+tmux
+wget
+zsh
