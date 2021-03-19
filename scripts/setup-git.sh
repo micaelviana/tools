@@ -28,7 +28,7 @@
 #setting up git
 #https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 
-git config --global user.name "Micael Viana"
+git config --global user.name "micaelviana"
 git config --global user.email "micael.vianasilva@gmail.com"
 git config --global core.editor nvim
 git config --global credential.helper cache
