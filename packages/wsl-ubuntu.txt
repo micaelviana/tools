@@ -1,0 +1,12 @@
+bacula-console-qt
+build-essential
+curl
+git
+neovim
+nodejs
+python3-pip
+silversearcher-ag
+tmux
+unzip
+wget
+zsh
