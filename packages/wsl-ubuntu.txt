@@ -1,4 +1,3 @@
-bacula-console-qt
 build-essential
 curl
 git
