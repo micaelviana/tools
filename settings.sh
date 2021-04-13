@@ -8,9 +8,9 @@ bash scripts/setup-git.sh
 chmod +x scripts/tilix.sh
 bash scripts/tilix.sh
 
-#ZSH PLUGIN MANAGER
-chmod +x scripts/zsh-plugin-manager.sh
-bash scripts/zsh-plugin-manager.sh
+#ZSH 
+chmod +x scripts/zsh.sh
+bash scripts/zsh.sh
 
 #Clone Vi config
 chmod +x scripts/vi.sh
