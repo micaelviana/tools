@@ -33,7 +33,6 @@ git config --global user.email "micael.vianasilva@gmail.com"
 git config --global core.editor nvim
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=18000'
-git config --global push.default simple
 
 
 echo "################################################################"
