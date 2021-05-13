@@ -1,4 +1,0 @@
-google-chrome
-jre
-jdk
-sublime-text-3

@@ -1,0 +1,31 @@
+$Packages = 'bat',
+'build-essential',
+'caffeine',
+'curl',
+'gnome-software',
+'gnome-tweaks',
+'google-chrome-stable',
+'neofetch',
+'neovim',
+'python3-pip',
+'qbittorrent',
+'qt5ct',
+'qt5-style-kvantum',
+'qt5-style-kvantum-l10n',
+'qt5-style-kvantum-themes',
+'ranger',
+'silversearcher-ag',
+'spotify-client',
+'synaptic',
+'telegram-desktop',
+'tilix',
+'tlp',
+'uget',
+'virtualbox',
+'vlc',
+'wget',
+'zsh'
+
+ForEach ($PackageName in $Packages){
+    apt install $PackageName -y
+}
