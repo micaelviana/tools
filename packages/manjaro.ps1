@@ -19,5 +19,5 @@ $Packages = 'base-devel',
 'vlc'
 
 ForEach ($PackageName in $Packages){
-    pacman -S $PackageName --needed --noconfirm
+    pacman -S $PackageName --needed
 }
