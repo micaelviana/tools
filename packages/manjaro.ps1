@@ -15,7 +15,6 @@ $Packages = 'base-devel',
 'telegram-desktop',
 'tilix',
 'tlp',
-'uget',
 'vlc'
 
 ForEach ($PackageName in $Packages){
