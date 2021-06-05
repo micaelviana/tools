@@ -1,5 +1,4 @@
-$Packages = 'bat',
-'build-essential',
+$Packages = 'build-essential',
 'caffeine',
 'curl',
 'neofetch',
