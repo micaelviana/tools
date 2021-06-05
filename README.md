@@ -31,6 +31,8 @@
 ## Shell
 [OH MY ZSH](https://ohmyz.sh/)
 
+[Spaceship prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+
 [ZSHRC](https://gist.github.com/micaelviana)
 
 ## Downloads
