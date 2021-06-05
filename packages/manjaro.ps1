@@ -1,5 +1,5 @@
 $Packages = 'base-devel',
-'bat'
+'bat',
 'git',
 'go',
 'lsd',
@@ -10,12 +10,12 @@ $Packages = 'base-devel',
 'python-neovim',
 'python-pip',
 'qbittorrent',
-'qt5ct',
 'the_silver_searcher',
 'telegram-desktop',
-'tilix',
 'tlp',
-'vlc'
+'vlc', 
+'xclip', 
+'xsel'
 
 ForEach ($PackageName in $Packages){
     pacman -S $PackageName --needed
