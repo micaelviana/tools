@@ -15,8 +15,9 @@ $Packages = 'base-devel',
 'tlp',
 'vlc', 
 'xclip', 
-'xsel'
+'xsel', 
+'zsh'
 
 ForEach ($PackageName in $Packages){
-    pacman -S $PackageName --needed
+    pacman -S $PackageName --needed --noconfirm
 }
