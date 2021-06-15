@@ -1,5 +1,6 @@
 $Packages = 'base-devel',
 'bat',
+'copyq',
 'git',
 'go',
 'lsd',
