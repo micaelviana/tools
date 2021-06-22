@@ -2,7 +2,6 @@
 
 ## Ubuntu
 * ### Extras
-    [Ulauncher](https://ulauncher.io/)
     
     [LSD](https://github.com/Peltoche/lsd)
 
