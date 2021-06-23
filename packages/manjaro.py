@@ -1,6 +1,7 @@
 import os
 
-packages = ['base-devel',
+packages = ['anki',
+'base-devel',
 'bat',
 'copyq',
 'git',
@@ -15,6 +16,7 @@ packages = ['base-devel',
 'qbittorrent',
 'the_silver_searcher',
 'telegram-desktop',
+'tilix',
 'tlp',
 'vlc', 
 'xclip', 
