@@ -1,6 +1,6 @@
 import os
 
-packages = ['google-chrome']
+packages = ['google-chrome','visual-studio-code-bin']
 
 for item in packages:
     command = "yay -S "+item+" --needed"
