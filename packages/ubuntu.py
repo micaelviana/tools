@@ -15,5 +15,5 @@ packages = ['build-essential',
 'zsh']
 
 for item in packages:
-    command = 'apt install -y '+item
+    command = 'sudo apt install -y '+item
     os.system(command)
