@@ -25,5 +25,5 @@ packages = ['anki',
 ]
 
 for item in packages:
-    command = 'pacman -S '+item+' --needed --noconfirm'
+    command = 'sudo pacman -S '+item+' --needed --noconfirm'
     os.system(command)
