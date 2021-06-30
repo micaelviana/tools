@@ -16,9 +16,9 @@ elif(op ==  2):
     os.system('python packages/aur.py')
 elif(op ==  3):
     print( "Selected Option: Ubuntu")
-    os.system('python packages/ubuntu.py')
+    os.system('python3 packages/ubuntu.py')
 elif(op ==  4): 
     print( "Selected Option: WSL-Ubuntu")
-    os.system('python packages/wsl-ubuntu.py')
+    os.system('python3 packages/wsl-ubuntu.py')
 else:
     print( "Exit")
