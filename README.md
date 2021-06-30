@@ -3,14 +3,15 @@
 ## Ubuntu
 * ### Extras
     
-    [LSD](https://github.com/Peltoche/lsd)
-
-
-* ### Nodejs
-    ```sh
-    curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-    sudo apt-get install -y nodejs
-    ```
+    [Lsd](https://github.com/Peltoche/lsd) or ```sudo snap install lsd```
+    
+    [Copyq](https://github.com/hluk/CopyQ/releases)
+    
+    [Eddy](https://diolinux.com.br/sistemas-operacionais/como-instalar-e-utilizar-o-eddy-no-ubuntu.html)
+    
+    [VSCode](https://code.visualstudio.com/)
+    
+* ### [ASDF](https://asdf-vm.com/#/)    
 
 ## Manjaro
 
@@ -33,4 +34,8 @@
 ## Downloads
 [Icon Pack](https://www.gnome-look.org/s/Gnome/p/1279924)
 
-[Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
+[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
+
+[Fira](https://github.com/tonsky/FiraCode)
+
+[Cursor](https://www.gnome-look.org/s/Gnome/p/1148692)
