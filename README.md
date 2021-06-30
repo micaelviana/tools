@@ -11,7 +11,11 @@
     
     [VSCode](https://code.visualstudio.com/)
     
-* ### [ASDF](https://asdf-vm.com/#/)    
+    [Anki](https://apps.ankiweb.net/)
+    
+* ### Version Manager
+    
+    [ASDF](https://asdf-vm.com/#/)   
 
 ## Manjaro
 
