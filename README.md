@@ -5,7 +5,7 @@
     
     [Lsd](https://github.com/Peltoche/lsd) or ```sudo snap install lsd```
     
-    [Copyq](https://github.com/hluk/CopyQ/releases)
+    [ClipIt](https://github.com/CristianHenzel/ClipIt)
     
     [Eddy](https://diolinux.com.br/sistemas-operacionais/como-instalar-e-utilizar-o-eddy-no-ubuntu.html)
     
@@ -32,6 +32,8 @@
 [OH MY ZSH](https://ohmyz.sh/)
 
 [Spaceship prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+
+[Z][https://github.com/agkozak/zsh-z]
 
 [ZSHRC](https://gist.github.com/micaelviana)
 
