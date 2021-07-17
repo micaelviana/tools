@@ -2,7 +2,7 @@ import os
 
 print("=========INSTALLERS=========")
 print("1 - Manjaro Packages")
-print("2 - AUR Packages (do not run in Root mode)")
+print("2 - AUR Packages")
 print("3 - Ubuntu Packages")
 print("4 - WSL Packages")
 
