@@ -17,7 +17,7 @@
     
     [ASDF](https://asdf-vm.com/#/)   
 
-## Manjaro
+## Arch
 
 * ### AUR Helper
     ```sh
