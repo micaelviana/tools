@@ -1,7 +1,7 @@
 import os
 
 print("=========INSTALLERS=========")
-print("1 - Manjaro Packages")
+print("1 - Arch Packages")
 print("2 - AUR Packages")
 print("3 - Ubuntu Packages")
 print("4 - WSL Packages")
@@ -10,7 +10,7 @@ op = int(input("Input your option: "))
 
 if(op ==  1):
     print( "Selected Option: Manjaro")
-    os.system('python packages/manjaro.py')
+    os.system('python packages/arch.py')
 elif(op ==  2): 
     print( "Selected Option: AUR")
     os.system('python packages/aur.py')
