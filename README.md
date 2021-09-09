@@ -42,6 +42,6 @@
 
 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
 
-[Fira](https://github.com/tonsky/FiraCode)
+[Fira Mono](https://github.com/tonsky/FiraCode)
 
 [Cursor](https://www.gnome-look.org/s/Gnome/p/1148692)
