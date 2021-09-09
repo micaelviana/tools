@@ -7,11 +7,11 @@
     
     [Clipboard manager](https://github.com/CristianHenzel/ClipIt)
     
-    [Eddy](https://diolinux.com.br/sistemas-operacionais/como-instalar-e-utilizar-o-eddy-no-ubuntu.html)
+    [Eddy - Install .deb packages](https://diolinux.com.br/sistemas-operacionais/como-instalar-e-utilizar-o-eddy-no-ubuntu.html)
     
     [VSCode](https://code.visualstudio.com/)
     
-    [Anki](https://apps.ankiweb.net/)
+    [Anki Cards](https://apps.ankiweb.net/)
     
 * ### Version Manager
     
