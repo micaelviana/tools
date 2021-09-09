@@ -33,7 +33,7 @@
 
 [Spaceship prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 
-[Z](https://github.com/agkozak/zsh-z)
+[Z Lua](https://github.com/skywind3000/z.lua)
 
 [ZSHRC](https://gist.github.com/micaelviana)
 
