@@ -1,4 +1,4 @@
-# Dotfiles
+# Tools
 
 ## Ubuntu
 * ### Extras
