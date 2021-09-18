@@ -29,7 +29,7 @@
 #https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 
 git config --global user.name "Micael Viana"
-git config --global user.email "micael.vianasilva@gmail.com"
+git config --global user.email "44692237+micaelviana@users.noreply.github.com"
 git config --global core.editor nvim
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=18000'
