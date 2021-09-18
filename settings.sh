@@ -13,4 +13,4 @@ bash scripts/gedit.sh
 #ZSH 
 bash scripts/zsh.sh
 #Clone Vi config
-bash scripts/vi.sh
+#bash scripts/vi.sh
