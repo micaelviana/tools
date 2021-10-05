@@ -18,9 +18,11 @@ packages = ['anki',
 'the_silver_searcher',
 'telegram-desktop',
 'tlp',
+'ttf-nerd-font-symbols',
 'vlc', 
 'xclip', 
-'xsel', 
+'xsel',
+'zoxide',
 'zsh'
 ]
 
