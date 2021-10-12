@@ -4,7 +4,7 @@ packages = ['anki',
 'base-devel',
 'bat',
 'copyq',
-'git',
+'fzf,
 'go',
 'lsd',
 'neofetch',
@@ -22,7 +22,6 @@ packages = ['anki',
 'vlc', 
 'xclip', 
 'xsel',
-'zoxide',
 'zsh'
 ]
 
