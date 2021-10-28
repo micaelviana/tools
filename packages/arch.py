@@ -24,6 +24,7 @@ packages = ['anki',
 'vlc', 
 'xclip', 
 'xsel',
+'zoxide',
 'zsh'
 ]
 
