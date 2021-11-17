@@ -1,7 +1,6 @@
 import os
 
-packages = ['anki',
-'base-devel',
+packages = ['base-devel',
 'bat',
 'copyq',
 'fzf',
