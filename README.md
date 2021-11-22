@@ -8,14 +8,6 @@
     [Clipboard manager](https://github.com/CristianHenzel/ClipIt)
     
     [Eddy - Install .deb packages](https://diolinux.com.br/sistemas-operacionais/como-instalar-e-utilizar-o-eddy-no-ubuntu.html)
-    
-    [VSCode](https://code.visualstudio.com/)
-    
-    [Anki Cards](https://apps.ankiweb.net/)
-    
-* ### Version Manager
-    
-    [ASDF](https://asdf-vm.com/#/)   
 
 ## Arch
 
@@ -32,8 +24,6 @@
 [OH MY ZSH](https://ohmyz.sh/)
 
 [Spaceship prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-
-[Z Lua](https://github.com/skywind3000/z.lua)
 
 [ZSHRC](https://gist.github.com/micaelviana)
 
