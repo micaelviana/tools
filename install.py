@@ -9,7 +9,7 @@ print("4 - WSL Packages")
 op = int(input("Input your option: "))
 
 if(op ==  1):
-    print( "Selected Option: Manjaro")
+    print( "Selected Option: Arch")
     os.system('python packages/arch.py')
 elif(op ==  2): 
     print( "Selected Option: AUR")
