@@ -5,8 +5,6 @@
     
     [Lsd](https://github.com/Peltoche/lsd) or ```sudo snap install lsd```
     
-    [Clipboard manager](https://github.com/CristianHenzel/ClipIt)
-    
     [Eddy - Install .deb packages](https://diolinux.com.br/sistemas-operacionais/como-instalar-e-utilizar-o-eddy-no-ubuntu.html)
 
 ## Arch
@@ -18,14 +16,6 @@
     cd yay
     makepkg -si
     ```
-    
-
-## Shell
-[OH MY ZSH](https://ohmyz.sh/)
-
-[Spaceship prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-
-[ZSHRC](https://gist.github.com/micaelviana)
 
 ## Downloads
 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
