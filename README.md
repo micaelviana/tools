@@ -16,6 +16,7 @@
     cd yay
     makepkg -si
     ```
+    or use [yay-bin](https://aur.archlinux.org/packages/yay-bin/)
 
 ## Downloads
 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
