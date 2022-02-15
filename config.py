@@ -2,7 +2,7 @@ import sys
 import os
 
 #grant permission
-os.system("chmod +x *.sh")
+os.system("chmod +x scripts/*.sh")
 
 flags = {
   "-g": "git.sh",
