@@ -6,7 +6,6 @@ os.system("chmod +x scripts/*.sh")
 
 flags = {
   "-g": "git.sh",
-  "-v": "vi.sh"
 }
 
 if __name__ == "__main__":
