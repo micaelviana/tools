@@ -6,6 +6,7 @@ os.system("chmod +x scripts/*.sh")
 
 flags = {
   "-g": "git.sh",
+  "-d": "directories.sh",
 }
 
 if __name__ == "__main__":
