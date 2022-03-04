@@ -5,9 +5,10 @@ import os
 os.system("chmod +x scripts/*.sh")
 
 flags = {
-  "-g": "git.sh",
-  "-d": "directories.sh",
-  "-t": "tmux.sh"
+    "-g": "git.sh",
+    "-d": "directories.sh",
+    "-t": "tmux.sh",
+    "--all": "*.sh"
 }
 
 if __name__ == "__main__":
@@ -24,6 +25,10 @@ if __name__ == "__main__":
         print("python config.py -g will run git.sh")
         print("python config.py -d will run directories.sh")
         print("python config.py -t will run tmux.sh")
+        print()
         print("More than one can be used. Eg:")
         print("python config.py -d -g")
+        print()
+        print("You can run all available scripts at once")
+        print("python config.py --all")
 
