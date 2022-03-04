@@ -7,6 +7,7 @@ os.system("chmod +x scripts/*.sh")
 flags = {
   "-g": "git.sh",
   "-d": "directories.sh",
+  "-t": "tmux.sh"
 }
 
 if __name__ == "__main__":
@@ -20,8 +21,9 @@ if __name__ == "__main__":
                 os.system(command)
     else:
         print("Available options:")
-        print("python config.py -g will run git.sh script")
-        print("python config.py -d will run directories.sh script")
-        print("More than one can be used:")
+        print("python config.py -g will run git.sh")
+        print("python config.py -d will run directories.sh")
+        print("python config.py -t will run tmux.sh")
+        print("More than one can be used. Eg:")
         print("python config.py -d -g")
 
