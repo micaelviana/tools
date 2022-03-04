@@ -7,7 +7,7 @@ packages = ['build-essential',
 'nodejs',
 'python3-pip',
 'silversearcher-ag',
-'tmux'
+'tmux',
 'unzip',
 'wget',
 'zsh'
