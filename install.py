@@ -4,7 +4,7 @@ print("=========INSTALLERS=========")
 print("1 - Arch Packages")
 print("2 - AUR Packages")
 print("3 - Ubuntu Packages")
-print("4 - WSL Packages")
+print("4 - WSL Arch Packages")
 
 op = int(input("Input your option: "))
 
@@ -18,7 +18,7 @@ elif(op ==  3):
     print( "Selected Option: Ubuntu")
     os.system('python3 packages/ubuntu.py')
 elif(op ==  4): 
-    print( "Selected Option: WSL-Ubuntu")
-    os.system('python3 packages/wsl-ubuntu.py')
+    print( "Selected Option: WSL-Arch")
+    os.system('python3 packages/wsl-arch.py')
 else:
     print( "Exit")
