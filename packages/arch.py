@@ -25,5 +25,5 @@ packages = ['base-devel',
 ]
 
 for item in packages:
-    command = 'sudo pacman -S '+item+' --needed --noconfirm'
+    command = 'sudo pacman -S '+item+' --needed'
     os.system(command)
