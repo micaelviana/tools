@@ -1,6 +1,7 @@
 import os
 
-packages = ['base-devel',
+packages = ['archlinux-keyring',
+'base-devel',
 'bat',
 'fd',
 'fzf',
