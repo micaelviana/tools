@@ -1,27 +1,22 @@
 import os
 
 packages = ['build-essential',
-'caffeine',
+'bat',
 'curl',
+'fd-find',
+'fzf',
 'gawk',
-'gnome-tweaks',
 'neofetch',
 'neovim',
 'python3-pip',
-'qbittorrent',
-'qt5ct',
-'qt5-style-kvantum',
-'qt5-style-kvantum-l10n',
-'qt5-style-kvantum-themes',
-'silversearcher-ag',
-'telegram-desktop',
-'tilix',
-'tlp',
-'virtualbox',
-'vlc',
+'ripgrep',
+'tmux',
+'xclip',
+'xsel',
 'wget',
+'zoxide',
 'zsh']
 
 for item in packages:
-    command = 'sudo apt install -y '+item
+    command = 'sudo nala install -y '+item
     os.system(command)
