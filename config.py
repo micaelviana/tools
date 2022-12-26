@@ -7,8 +7,7 @@ os.system("chmod +x scripts/*.sh")
 flags = {
     "-g": "git.sh",
     "-d": "directories.sh",
-    "-t": "tmux.sh",
-    "--all": "*.sh"
+    "-t": "tmux.sh"
 }
 
 if __name__ == "__main__":
@@ -28,7 +27,4 @@ if __name__ == "__main__":
         print()
         print("More than one can be used. Eg:")
         print("python config.py -d -g")
-        print()
-        print("You can run all available scripts at once")
-        print("python config.py --all")
 
