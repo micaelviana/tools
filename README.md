@@ -11,12 +11,11 @@
 
 * ### AUR Helper
     ```sh
-    sudo pacman -S --needed base-devel git go
-    git clone https://aur.archlinux.org/yay.git
-    cd yay
+    sudo pacman -S --needed git base-devel
+    git clone https://aur.archlinux.org/yay-bin.git
+    cd yay-bin
     makepkg -si
     ```
-    or use [yay-bin](https://aur.archlinux.org/packages/yay-bin/)
 
 ## Downloads
 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
