@@ -19,5 +19,3 @@
 
 ## Downloads
 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
-
-[Fira Mono](https://fonts.google.com/specimen/Fira+Mono)
