@@ -11,11 +11,15 @@ packages = ['archlinux-keyring',
 'python-neovim',
 'python-pip',
 'ripgrep',
+'tree',
 'tmux',
 'xclip', 
 'xsel',
 'zoxide',
-'zsh'
+'zsh',
+'zip',
+'tldr',
+'unzip'
 ]
 
 for item in packages:
