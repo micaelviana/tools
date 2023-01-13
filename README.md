@@ -19,3 +19,5 @@
 
 ## Downloads
 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases/)
+
+[Monaco Nerd Font](https://github.com/Karmenzind/monaco-nerd-fonts)
