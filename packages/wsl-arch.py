@@ -1,6 +1,7 @@
 import os
 
 packages = ['archlinux-keyring',
+'btop', 
 'base-devel',
 'bat',
 'fd',
@@ -11,6 +12,7 @@ packages = ['archlinux-keyring',
 'python-neovim',
 'python-pip',
 'ripgrep',
+'shellcheck', 
 'tree',
 'tmux',
 'xclip', 
