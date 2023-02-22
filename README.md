@@ -3,7 +3,7 @@
 ## Ubuntu
 * ### Extras
     
-    [Lsd](https://github.com/Peltoche/lsd) or ```sudo snap install lsd```
+    [Lsd](https://github.com/Peltoche/lsd)
     
     [Eddy - Install .deb packages](https://diolinux.com.br/sistemas-operacionais/como-instalar-e-utilizar-o-eddy-no-ubuntu.html)
 
