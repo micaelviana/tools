@@ -24,6 +24,31 @@ packages = ['base-devel',
 'zsh'
 ]
 
-for item in packages:
+temp = ['archlinux-keyring',
+'btop', 
+'base-devel',
+'bat',
+'clang',
+'fd',
+'fzf',
+'lsd',
+'neofetch',
+'neovim',
+'python-neovim',
+'python-pip',
+'ripgrep',
+'shellcheck', 
+'tree',
+'tmux',
+'xclip', 
+'xsel',
+'zoxide',
+'zsh',
+'zip',
+'tldr',
+'unzip'
+]
+
+for item in temp:
     command = 'sudo pacman -S '+item+' --needed'
     os.system(command)
