@@ -1,6 +1,7 @@
 import os
 
 packages = ['archlinux-keyring',
+'bat-extras',
 'btop', 
 'base-devel',
 'bat',
