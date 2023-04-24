@@ -7,4 +7,4 @@
 [ ! -d $HOME/.local/bin ] && mkdir -p $HOME/.local/bin && echo "local/bin folder is ready"
 
 #create config folder
-[ ! -d $HOME/.config ] && mkdir -p $HOME/.config && "config folder is ready" 
+[ ! -d $HOME/.config ] && mkdir -p $HOME/.config && echo "config folder is ready" 
