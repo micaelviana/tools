@@ -10,4 +10,4 @@ git config --global user.name "Micael Viana"
 git config --global user.email "44692237+micaelviana@users.noreply.github.com"
 git config --global core.editor nvim
 git config --global credential.helper cache
-git config --global credential.helper 'cache --timeout=180000'
+git config --global credential.helper 'cache --timeout=604800'
