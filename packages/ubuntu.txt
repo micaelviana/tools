@@ -7,6 +7,7 @@ gawk
 neofetch
 python3-pip
 ripgrep
+software-properties-common
 tree
 tmux
 xclip
