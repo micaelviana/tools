@@ -7,7 +7,6 @@ bat-extras
 btop
 clang
 cmake
-emacs
 fakeroot-tcp
 fd
 feh
