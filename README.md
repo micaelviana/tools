@@ -1,13 +1,30 @@
 # Tools
 
 ## Ubuntu
-* ### Extras
-    
-    [Lsd](https://github.com/Peltoche/lsd)
+Backup packages
+
+```sh
+dpkg --get-selections > package_list/ubuntu.txt
+```
+Install packages
+```sh
+sudo xargs -a package_list/ubuntu.txt apt-get install
+```
+
 
 ## Arch
 
-* ### AUR Helper
+Backup packages
+
+```sh
+pacman -Q > package_list/arch.txt
+```
+Install packages
+```sh
+yay -S - < package_list/arch.txt
+```
+
+ ### AUR Helper
     ```sh
     sudo pacman -S --needed git base-devel
     git clone https://aur.archlinux.org/yay-bin.git
