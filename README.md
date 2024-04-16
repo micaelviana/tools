@@ -4,11 +4,12 @@
 Backup packages
 
 ```sh
-dpkg --get-selections > package_list/ubuntu.txt
+dpkg --get-selections | awk '{print $1}' > package_list/ubuntu.txt
+
 ```
 Install packages
 ```sh
-sudo xargs -a package_list/ubuntu.txt apt-get install
+sudo xargs -a package_list/ubuntu.txt apt install
 ```
 
 
@@ -17,11 +18,11 @@ sudo xargs -a package_list/ubuntu.txt apt-get install
 Backup packages
 
 ```sh
-pacman -Q > package_list/arch.txt
+pacman -Qe | awk '{print $1 }' > package_list/arch.txt
 ```
 Install packages
 ```sh
-yay -S - < package_list/arch.txt
+yay -S --no-confirm --needed - < package_list/arch.txt
 ```
 
  ### AUR Helper
